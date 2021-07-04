@@ -1,13 +1,13 @@
 {
   "name": "data-for-azeroth-scraper",
   "version": "1.0.0",
-  "description": "",
+  "description": "Very simple webscraper for dataforazeroth.com",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Justin Smid <justin250899@hotmail.com>",
   "license": "MIT",
   "dependencies": {
     "puppeteer": "^10.1.0"
